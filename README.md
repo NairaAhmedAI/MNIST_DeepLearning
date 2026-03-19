@@ -16,8 +16,13 @@ This project builds a **Neural Network** using PyTorch to classify handwritten d
 - Optimizer: Adam
 
 ## 📊 Results
-![Test Accuracy Screenshot](<img width="656" height="430" alt="image" src="https://github.com/user-attachments/assets/2321b199-2320-4995-9dd2-2f15799ab555" />
-)  <!-- ضع صورة من Colab هنا -->
+## 📊 Results
+
+![Test Accuracy Screenshot](<img width="656" height="430" alt="Screenshot 2026-03-19 211013" src="https://github.com/user-attachments/assets/06739d4d-3f13-4d45-93ee-df6c7bbe1132" />
+)
+![Confusion Matrix](<img width="838" height="701" alt="image" src="https://github.com/user-attachments/assets/1766d364-c379-445f-a6c6-398fca335636" />
+)
+
 
 - Achieved **>95% accuracy** on test set
 
